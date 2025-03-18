@@ -1,4 +1,4 @@
-%ATHANASIADIS IOANNIS 1444
+%ATH IOANNIS 1444
 
 function [E,Amp_prof,Ph_prof] = HFP_ScatPat_SpotDiag_Main( freq , MetaSurf , Illumin , Scatt )
 
